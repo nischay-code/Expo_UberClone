@@ -22,8 +22,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/nischay-code/react-native-uber-clone.git
-    cd react-native-uber-clone
+    git clone git@github.com:nischay-code/ReactNative_Expo_UberClone.git
+    cd ReactNative_Expo_UberClone
     ```
 
 2. **Install dependencies:**
