@@ -57,8 +57,4 @@ Make sure to set up API keys for Google Places Autocomplete in the project. Upda
 
 Feel free to contribute by opening issues or creating pull requests. Contributions are always welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Happy Coding! 🚀👩‍💻👨‍💻
