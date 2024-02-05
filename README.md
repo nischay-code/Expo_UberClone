@@ -1,4 +1,4 @@
-# 🚗 React Native Expo Uber Clone 🚗
+# 🚗 ReactNative_Expo Uber_Clone 🚗
 
 An Uber clone built with React Native Expo, featuring map integration, Google Places Autocomplete, and state management using Redux.
 
@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/react-native-uber-clone.git
+    git clone https://github.com/nischay-code/react-native-uber-clone.git
     cd react-native-uber-clone
     ```
 
